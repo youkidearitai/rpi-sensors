@@ -1,0 +1,4 @@
+env/
+sensors/transport_tekitoh_memdhoi.py
+send_host.py
+*.pyc
