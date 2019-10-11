@@ -1,4 +1,4 @@
-# am2320 sensor
+# sensor
 
 Raspberry Pi上でセンサーを使うためのPythonコード。
 
