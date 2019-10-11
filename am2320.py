@@ -4,7 +4,7 @@
 import smbus2
 import sensors.am2320
 
-sensor = sensors.am2320.Am2320sensor()
+sensor = sensors.am2320.Am2320sensor(1)
 
 if __name__ == '__main__':
     sensor.setup()
